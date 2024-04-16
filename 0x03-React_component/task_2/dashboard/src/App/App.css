@@ -1,0 +1,16 @@
+.App {
+  font-size: 1.3rem;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App hr{
+  border: 2px solid rgb(230, 62, 62);
+}
+.App-body {
+  min-height: 100vh;
+  padding: 2rem;
+}
